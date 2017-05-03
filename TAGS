@@ -1,0 +1,68 @@
+
+./app/Frequency.hs,216
+module FrequencyFrequency9,10
+type Histogram Histogram17,18
+type Histogram a a17,18
+inc inc26,27
+inc inc27,28
+frequency frequency33,34
+frequency frequency34,35
+create create43,44
+create create44,45
+
+./app/Main.hs,52
+module Main Main0,1
+main main4,5
+main main5,6
+
+./app/MakeTree.hs,605
+module MakeTreeMakeTree9,10
+makeTree makeTree28,29
+toTreeList toTreeList36,37
+value value39,40
+value value40,41
+grabFreq grabFreq45,46
+grabFreq grabFreq46,47
+merge merge50,51
+merge merge51,52
+sort sort54,55
+sort sort55,56
+mergeFirstPair mergeFirstPair58,59
+mergeFirstPair mergeFirstPair59,60
+pair pair64,65
+pair pair65,66
+amalgamate amalgamate70,71
+amalgamate amalgamate71,72
+insTree insTree73,74
+insTree insTree74,75
+makeCodes makeCodes79,80
+makeCodes makeCodes80,81
+test test84,85
+test test85,86
+instance instance125,126
+pad pad153,154
+pad pad154,155
+
+./app/Types.hs,204
+module TypesTypes2,3
+data Tree Tree11,12
+  = Leaf Leaf12,13
+  | Node Node14,15
+data BitBit19,20
+  = LL20,21
+  | RR21,22
+type HCode HCode23,24
+type Table Table24,25
+type Table a a24,25
+
+./Setup.hs,15
+main main1,2
+
+./src/Lib.hs,65
+module LibLib0,1
+someFunc someFunc4,5
+someFunc someFunc5,6
+
+./test/Spec.hs,30
+main main0,1
+main main1,2
